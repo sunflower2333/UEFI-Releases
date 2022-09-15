@@ -1,14 +1,9 @@
 # UEFI-Release  
-## Public Uefi Bootable Image For sm8150/公开的已编译的sm8150设备可启动uefi镜像文件  
+## Public Uefi Bootable Image For sm7125/公开的已编译的sm7125设备可启动uefi镜像文件  
   
 * Provided Devices/支持的设备:  
 ```
-  LG G8x
-  LG V50
-  LG V50s
-  Xiaomi K20P
-  Xiaomi MIX3 5G
-  Xiaomi Pad 5
+  *Atoll/720Qrd*
 ```
 * Releases/可供下载的镜像文件  
   [Click here/点击这里下载](https://github.com/sunflower2333/UEFI-Release/releases)
