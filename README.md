@@ -1,5 +1,6 @@
 # UEFI-Release  
 ## Public Uefi Bootable Image For sm8150/公开的已编译的sm8150设备可启动uefi镜像文件  
+## Please Download the newest UEFI here !/ 请在这里下载最新的UEFI！
 
 ## 现在你可以下载Mindows工具箱进行一键刷机啦！适配进度见[Mindows官网](http://mindows.cn/)
 
